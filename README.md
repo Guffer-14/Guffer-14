@@ -38,7 +38,7 @@ Soy odontóloga de profesión y decidí dar el salto al desarrollo de software. 
 
 ## 🐾 Un poco sobre mí
 
-Cuando no estoy programando, disfruto la vida en el campo junto a mi familia y mis mascotas: **Kitti** 🐱, **Sally** 🐶 y **Clarita** 🐶.
+Cuando no estoy programando, disfruto la vida en el campo junto a mi familia y mis mascotas: **Kitty** 🐱, **Sally** 🐶 y **Clarita** 🐶.
 
 <br>
 
