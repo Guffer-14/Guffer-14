@@ -1,13 +1,31 @@
+# 👋 ¡Hola! Soy Valentina Osorio
 
-Mi nombre es Valentina Osorio 😊 Soy Desarrolladora Full Stack.
+**Desarrolladora Full Stack** especializada en **Python** y **Django**.
 
-Me motiva crear soluciones que resuelvan problemas reales. Actualmente estoy desarrollando **LimpiaSONRISAS**, un sistema que busca acercar el cuidado de la salud oral a la comunidad, con backend en Django y PostgreSQL, desplegado en producción.
+Me apasiona desarrollar soluciones que resuelvan problemas reales. Actualmente estoy construyendo **LimpiaSONRISAS**, un sistema para la gestión de salud oral desarrollado con **Django** y **PostgreSQL**, desplegado en producción.
 
-💻 Tecnologías con las que trabajo: Python, Django (incluyendo su sistema de autenticación), bases de datos (PostgreSQL, SQLite), APIs REST, Git y VS Code.
+## 💻 Tecnologías con las que trabajo
 
-🦷 Vengo del mundo de la salud (odontóloga de profesión), lo que me da una perspectiva distinta a la hora de diseñar software: entiendo tanto la lógica técnica como las necesidades reales de quienes usarán el sistema.
+- Python
+- Django (incluyendo su sistema de autenticación)
+- APIs REST
+- PostgreSQL y SQLite
+- Git y GitHub
+- Visual Studio Code
 
-🐾 En mi tiempo libre disfruto la vida en el campo junto a mi familia y mis mascotas: Kitti (gata), Sally y Clarita (perritas).
+## 🦷 De la odontología al desarrollo de software
+
+Soy odontóloga de profesión y decidí dar el salto al desarrollo de software. Mi experiencia en el área de la salud me entrega una perspectiva diferente: comprendo tanto la lógica técnica como las necesidades reales de las personas que utilizarán un sistema.
+
+## 🐾 Un poco sobre mí
+
+Cuando no estoy programando, disfruto la vida en el campo junto a mi familia y mis mascotas: **Kitti** 🐱, **Sally** 🐶 y **Clarita** 🐶.
+
+## 🎯 Mi objetivo
+
+Actualmente busco oportunidades como **Desarrolladora Backend o Full Stack**, donde pueda seguir aprendiendo, aportar con soluciones de calidad y desarrollar software que genere un impacto positivo en las personas.
+
+¡Gracias por visitar mi perfil! ✨
 
 <br>
 
