@@ -24,6 +24,8 @@ Me apasiona desarrollar soluciones que resuelvan problemas reales. Actualmente e
 
 </div>
 
+<br>
+
 Y también trabajo con **APIs REST** para conectar y exponer datos entre sistemas.
 
 <br>
